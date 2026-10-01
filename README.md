@@ -2,7 +2,7 @@
 
 [![Release](https://img.shields.io/github/v/release/ashishjohnd/EvoTask?style=for-the-badge&color=6366f1)](https://github.com/ashishjohnd/EvoTask/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Android%207.0%2B%20%7C%20Waydroid-34d399?style=for-the-badge)](https://github.com/ashishjohnd/EvoTask/releases/latest)
-[![APK Size](https://img.shields.io/badge/App%20Size-45.6%20MB-blue?style=for-the-badge)](https://github.com/ashishjohnd/EvoTask/releases/latest)
+[![APK Size](https://img.shields.io/badge/App%20Size-48.3%20MB-blue?style=for-the-badge)](https://github.com/ashishjohnd/EvoTask/releases/latest)
 [![Offline-First](https://img.shields.io/badge/Storage-100%25%20Offline-9333ea?style=for-the-badge)](https://github.com/ashishjohnd/EvoTask/releases/latest)
 
 > **EvoTask** is a fast, lightweight, 100% offline task manager, Pomodoro timer, and notes app for Android. Simple, private, and distraction-free.
@@ -13,7 +13,7 @@
 
 | Build | Architecture | Size | Download |
 | :--- | :--- | :--- | :--- |
-| **🚀 Universal APK (v1.1.0)** | `arm64-v8a` + `x86_64` | **45.6 MB** | [**Download EvoTask-v1.1.0.apk**](https://github.com/ashishjohnd/EvoTask/releases/download/v1.1.0/EvoTask-v1.1.0.apk) |
+| **🚀 Universal APK (v1.1.0)** | `arm64-v8a` + `x86_64` | **48.3 MB** | [**Download EvoTask-v1.1.0.apk**](https://github.com/ashishjohnd/EvoTask/releases/download/v1.1.0/EvoTask-v1.1.0.apk) |
 
 > 💡 **Universal Compatibility**:
 > This single standalone APK contains native binaries for both `arm64-v8a` (physical Android phones and tablets) and `x86_64` (Waydroid on Linux and PC Android emulators).
