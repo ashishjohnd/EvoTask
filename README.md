@@ -9,17 +9,14 @@
 
 ---
 
-## 📥 Downloads (v1.1.0)
+## 📥 Download Latest Release (v1.1.0)
 
 | Build | Architecture | Size | Download |
 | :--- | :--- | :--- | :--- |
-| **🚀 Latest Universal APK (v1.1.0)** | `arm64-v8a` + `x86_64` | **45.6 MB** | [**Download EvoTask-v1.1.0.apk**](https://github.com/ashishjohnd/EvoTask/releases/download/v1.1.0/EvoTask-v1.1.0.apk) |
-| **📱 Universal APK (v1.0.2)** | `arm64-v8a` + `x86_64` | **47.1 MB** | [**Download EvoTask-v1.0.2.apk**](https://github.com/ashishjohnd/EvoTask/releases/download/v1.0.2/EvoTask-v1.0.2.apk) |
-| **📱 Phone-Only APK (v1.0.1)** | `arm64-v8a` | **28.2 MB** | [**Download EvoTask-v1.0.1-arm64.apk**](https://github.com/ashishjohnd/EvoTask/releases/download/v1.0.1/EvoTask-v1.0.1-arm64.apk) |
-| **📦 Google Play Bundle (v1.0.1)** | App Bundle (AAB) | **24.2 MB** | [**Download EvoTask-v1.0.1.aab**](https://github.com/ashishjohnd/EvoTask/releases/download/v1.0.1/EvoTask-v1.0.1.aab) |
+| **🚀 Universal APK (v1.1.0)** | `arm64-v8a` + `x86_64` | **45.6 MB** | [**Download EvoTask-v1.1.0.apk**](https://github.com/ashishjohnd/EvoTask/releases/download/v1.1.0/EvoTask-v1.1.0.apk) |
 
-> 💡 **Recommendation**:
-> - For all Android phones, tablets, Waydroid (Linux), and PC emulators: download **[`EvoTask-v1.1.0.apk`](https://github.com/ashishjohnd/EvoTask/releases/download/v1.1.0/EvoTask-v1.1.0.apk)**.
+> 💡 **Universal Compatibility**:
+> This single standalone APK contains native binaries for both `arm64-v8a` (physical Android phones and tablets) and `x86_64` (Waydroid on Linux and PC Android emulators).
 
 ---
 
