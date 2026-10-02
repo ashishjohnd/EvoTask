@@ -5,7 +5,7 @@
 [![APK Size](https://img.shields.io/badge/App%20Size-48.3%20MB-blue?style=for-the-badge)](https://github.com/ashishjohnd/EvoTask/releases/latest)
 [![Offline-First](https://img.shields.io/badge/Storage-100%25%20Offline-9333ea?style=for-the-badge)](https://github.com/ashishjohnd/EvoTask/releases/latest)
 
-> **EvoTask** is a fast, lightweight, 100% offline task manager, Pomodoro timer, and notes app for Android. Simple, private, and distraction-free.
+> **EvoTask** is an offline-first Android productivity application built with React Native and Expo, featuring smart task management, markdown notes with image attachments, Pomodoro focus tracking, and Material 3 design.
 
 ---
 
@@ -16,36 +16,33 @@
 | **🚀 Universal APK (v1.1.0)** | `arm64-v8a` + `x86_64` | **48.3 MB** | [**Download EvoTask-v1.1.0.apk**](https://github.com/ashishjohnd/EvoTask/releases/download/v1.1.0/EvoTask-v1.1.0.apk) |
 
 > 💡 **Universal Compatibility**:
-> This single standalone APK contains native binaries for both `arm64-v8a` (physical Android phones and tablets) and `x86_64` (Waydroid on Linux and PC Android emulators).
+> Compatible with both physical Android devices (`arm64-v8a`) and Linux Waydroid / PC emulators (`x86_64`).
 
 ---
 
 ## 🌟 Key Features
 
-- **✅ Smart Tasks**: Create, prioritize, categorize, and set due dates with overdue alerts.
-- **⏱️ Focus / Pomodoro Mode**: 25m Focus, 5m Short Break, and 15m Long Break intervals with task linkage, timestamp precision, and local history.
-- **🖼️ Proportional Notes Images**: Attached images strictly maintain their natural aspect ratio without distortion, stretching, or being forced into square boxes.
-- **🔍 Fullscreen Viewer with Zoom**: Interactive pinch-to-zoom (up to 400%), on-screen zoom stepper (`[-]`, `100%`, `[+]`), two-finger panning, close button, and Android back button integration.
-- **📊 Unified Overall Progress Card**: Shared layout across Home and Statistics with single-row header, right-aligned percentage, full-width progress bar, and 3-column metrics.
-- **📱 Customizable Dashboard**: Interactive section reordering (move up/down) and visibility toggles directly from Settings.
-- **🔔 Advanced Offline Notifications**: Configurable task due reminders (at due time to 1d before), focus/break completion alerts, and overdue alerts.
-- **🎨 Material 3 Accent Themes**: 5 color palettes (Purple, Blue, Green, Orange, Rose) + Compact Mode + Motion controls.
-- **📝 Full-Screen Notes**: Full-screen reader & editor with debounced auto-save, 2-column Grid/List view toggle, and Android hardware back button support.
-- **🔒 100% Offline & Private**: Zero accounts, zero tracking, zero cloud dependencies. All data stays strictly on your device.
-- **🌓 Dark & Light Modes**: Seamless automatic system switching or manual toggle.
-- **↩️ Undo Delete**: Instant undo snackbars for tasks and notes.
-- **⚡ Lightweight & Fast**: Instant launch, smooth 60fps virtualization, and minimal battery consumption.
-- **🤖 Multi-Platform**: Standalone Universal 64-bit APK verified on physical Android phones, emulators, and Waydroid on Linux.
+- **Task Management**: Prioritize, categorize, set due dates, and track active vs. completed tasks with overdue notifications.
+- **Focus Timer**: Integrated Pomodoro timer with Focus, Short Break, and Long Break intervals, task linking, and session history.
+- **Full-Screen Notes**: Distraction-free editor with debounced auto-save, grid/list view toggles, and image attachments.
+- **Proportional Image Viewer**: Preserves native image aspect ratios with customizable display scaling and interactive pinch-to-zoom.
+- **Progress Overview**: Unified progress card across Home and Statistics showing completion rates, active workloads, and weekly trends.
+- **Customizable Dashboard**: Reorder sections and toggle card visibility directly from Settings.
+- **Offline Notifications**: Configurable local alerts for task due dates, overdue items, and completed focus intervals.
+- **Material 3 Themes**: Light and dark modes with 5 accent color palettes and compact density settings.
+- **100% Offline & Private**: Zero accounts, zero analytics, and zero cloud dependencies—all data stays on your device.
+- **Fast & Responsive**: Optimized Hermes bytecode execution delivering smooth 60fps performance and minimal battery usage.
 
 ---
 
 ## 🚀 What's New in v1.1.0
 
-- **🖼️ Proportional Notes Image Display**: Natural aspect ratio preservation, scale presets (Small 72%, Medium 88%, Large 100%, Custom 50%–100%), lossless `quality: 1.0` gallery picker, individual 3-dot context menu, and interactive fullscreen viewer with pinch zoom (up to 4x) & pan.
-- **📊 Unified Overall Progress Card**: Single reusable `OverallProgressCard` across Home and Statistics with standard 16dp outer screen margin, 16dp internal padding, single-row header, right-aligned percentage, full-width progress bar, and 3-column statistics metrics with aligned baselines.
-- **📐 Compact Dashboard Rhythm**: Refined vertical card rhythm and section padding without reducing touch targets (44–48dp minimum).
-- **🎨 Visual Identity & Polish**: Updated Material 3 adaptive icon, monochrome icon, and author credit set to Ashish John.
-- **📦 Standalone Universal 64-Bit APK**: Single Universal APK (`EvoTask-v1.1.0.apk`) containing both `arm64-v8a` (physical devices) and `x86_64` (Waydroid / PC emulators), pre-compiled with Hermes bytecode.
+- **Proportional Note Images**: Attached images retain their native aspect ratio without distortion or cropping. Sizing can be adjusted via Small (~72%), Medium (~88%), Large (100%), and Custom scale presets.
+- **Full-Screen Image Viewer**: Added interactive pinch-to-zoom (up to 4x), two-finger panning, and dedicated on-screen zoom controls.
+- **Unified Progress Card**: Standardized progress layout across Home and Statistics screens for consistent metrics and alignment.
+- **Refined Dashboard Spacing**: Streamlined card heights and vertical gaps for higher information density while preserving accessible touch targets.
+- **Universal 64-Bit Binary**: Standalone APK supporting both `arm64-v8a` (phones/tablets) and `x86_64` (Waydroid and emulators).
+- **Visual Identity & Polish**: Refreshed Material 3 adaptive app icons and refined interface details.
 
 ---
 
